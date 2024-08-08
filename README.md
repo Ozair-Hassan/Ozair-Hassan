@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm Ozair Hassan, a Full Stack Developer with expertise in
 ## 💼 Experience
 
 ### Full Stack Developer at IntelliGlanceTech (TechGlance)
-*January 2024 - Present, Remote*
+*January 2024 - August 2024, Remote*
 
 ### Freelance Projects
 *August 2023 - Present*
