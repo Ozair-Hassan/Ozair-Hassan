@@ -7,6 +7,9 @@ Welcome to my GitHub! I'm Ozair Hassan, a Full Stack Developer with expertise in
 
 ## 💼 Experience
 
+### Software Engineer at Aciano Technologies
+*September 2024 - Current, Onsite*
+
 ### Full Stack Developer at IntelliGlanceTech (TechGlance)
 *January 2024 - August 2024, Remote*
 
