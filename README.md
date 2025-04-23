@@ -7,8 +7,11 @@ Welcome to my GitHub! I'm Ozair Hassan, a Full Stack Developer with expertise in
 
 ## 💼 Experience
 
+### Software Engineer at Lawgic
+*October 2024 - Current, Remote*
+
 ### Software Engineer at Aciano Technologies
-*September 2024 - Current, Onsite*
+*September 2024 - January 2025, Onsite*
 
 ### Full Stack Developer at IntelliGlanceTech (TechGlance)
 *January 2024 - August 2024, Remote*
@@ -72,7 +75,7 @@ Welcome to my GitHub! I'm Ozair Hassan, a Full Stack Developer with expertise in
 ## 📫 Contact
 
 - **Email:** [ozair.hassan123@gmail.com](mailto:ozair.hassan123@gmail.com)
-- **Phone:** (+92) 314-2119661
+- **Phone:** (+92) 314-2119661 / (+353) 833965403
 - **Portfolio:** [ozairhassan.com](https://ozairhassan.com/)
 - **LinkedIn:** [linkedin.com/in/ozair-hassan](https://www.linkedin.com/in/ozair-hassan)
 
