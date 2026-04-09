@@ -10,7 +10,7 @@ I enjoy solving real-world problems by building practical, user-focused solution
 ## 💼 Experience
 
 ### Full Stack Developer at Lawgic (Freelance, Part Time)
-*October 2024 - Present, Remote*
+*October 2024 - October 2025, Remote*
 - Built and improved AI-powered legal tools, including RAG-based systems for document retrieval and generation  
 - Developed features such as citation systems and AI-assisted contract generation workflows  
 - Worked with Python, vector databases (Elastic, Weaviate, Milvus), and LLMs (Claude, Gemini, DeepSeek)  
