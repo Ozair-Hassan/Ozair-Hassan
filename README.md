@@ -11,31 +11,19 @@ I enjoy solving real-world problems by building practical, user-focused solution
 
 ### Full Stack Developer at Lawgic (Freelance, Part Time)
 *October 2024 - October 2025, Remote*
-- Built and improved AI-powered legal tools, including RAG-based systems for document retrieval and generation  
-- Developed features such as citation systems and AI-assisted contract generation workflows  
-- Worked with Python, vector databases (Elastic, Weaviate, Milvus), and LLMs (Claude, Gemini, DeepSeek)  
-- Built internal tools to automate embedding pipelines, reducing setup time and improving usability for non-technical users  
-- Expanded from frontend into backend and AI systems, taking ownership of new technical areas in production  
+- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/)
 
 ### Software Engineer at Aciano Technologies
 *September 2024 - January 2025, Onsite*
-- Developed and optimized features for mobile applications using React Native  
-- Improved UI responsiveness and reduced load times across key user flows  
-- Collaborated in Agile teams, contributing to feature delivery and iterative improvements  
-- Worked closely with senior engineers through code reviews, improving code quality and maintainability  
+- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/) 
 
 ### Full Stack Developer at IntelliGlanceTech (TechGlance)
 *January 2024 - August 2024, Remote*
-- Built frontend systems using React and Next.js for client-facing platforms  
-- Implemented UI based on provided designs and integrated backend APIs  
-- Developed a carbon emission tracking platform for a UK-based client  
-- Led development of a landing website with full ownership of implementation  
-- Built the majority of the frontend for a high-profile portfolio website for the former Prime Minister of Kuwait  
+- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/)
 
 ### Freelance Projects
 *August 2023 - Present*
-- Delivered full stack applications for various clients, focusing on performance, scalability, and clean UI/UX  
-- Built and deployed web applications using MERN stack and modern frontend frameworks  
+- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/)
 
 ### Software Engineer Intern at VA Lab affiliated with NCBC
 *July 2022 – August 2022*
@@ -93,7 +81,6 @@ I enjoy solving real-world problems by building practical, user-focused solution
 ## 📫 Contact
 
 - **Email:** [ozair.hassan123@gmail.com](mailto:ozair.hassan123@gmail.com)
-- **Phone:** (+353) 833965403
 - **Portfolio:** [ozairhassan.com](https://ozairhassan.com/)
 - **LinkedIn:** [linkedin.com/in/ozair-hassan](https://www.linkedin.com/in/ozair-hassan)
 
