@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ozair--hassan-blue)](https://www.linkedin.com/in/ozair-hassan)
 
-Welcome to my GitHub! I'm Ozair Hassan, a Full Stack Software Engineer with experience building scalable SaaS applications and AI-powered systems. I specialize in React, Next.js, TypeScript, and Node.js, with hands-on experience integrating backend systems, designing APIs, and working with modern AI technologies such as Retrieval Augmented Generation pipelines and LLM integrations.
+Welcome to my GitHub! I'm Ozair Hassan, a Full Stack Developer with experience building scalable SaaS applications and AI-powered systems. I specialize in React, Next.js, TypeScript, and Node.js, with hands-on experience integrating backend systems, designing APIs, and working with modern AI technologies such as Retrieval Augmented Generation pipelines and LLM integrations.
 
 I enjoy solving real-world problems by building practical, user-focused solutions that are performant, reliable, and easy to use. My work spans across frontend, backend, and AI-driven features, with a strong focus on improving developer workflows and end-user experience.
 
