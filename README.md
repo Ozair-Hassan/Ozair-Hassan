@@ -9,21 +9,21 @@ I enjoy solving real-world problems by building practical, user-focused solution
 
 ## 💼 Experience
 
-### Full Stack Developer at Lawgic (Freelance, Part Time)
+### Full Stack Developer at Lawgic (Part Time)
 *October 2024 - October 2025, Remote*
-- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/)
+- More details on [my portfolio](https://ozairhassan.com/)
 
 ### Software Engineer at Aciano Technologies
 *September 2024 - January 2025, Onsite*
-- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/) 
+- More details on [my portfolio](https://ozairhassan.com/)
 
 ### Full Stack Developer at IntelliGlanceTech (TechGlance)
 *January 2024 - August 2024, Remote*
-- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/)
+- More details on [my portfolio](https://ozairhassan.com/)
 
 ### Freelance Projects
 *August 2023 - Present*
-- Read more on my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-ozairhassan.com-blue)](https://ozairhassan.com/)
+- More details on [my portfolio](https://ozairhassan.com/)
 
 ### Software Engineer Intern at VA Lab affiliated with NCBC
 *July 2022 – August 2022*
